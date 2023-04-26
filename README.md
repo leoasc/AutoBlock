@@ -1,6 +1,7 @@
 # 说明
 
 这是一个按照设定参数自动检查Windows安全日志并将攻击IP自动添加到防火墙进行屏蔽的简单程序。
+可下载源码编译或直接下载Release.zip解压后使用
 
 在AutoBlock.config中配置参数：
 
@@ -27,7 +28,7 @@
 ## Readme
 
 This is a simple program that automatically checks the Windows security log according to the set parameters and automatically adds the attack IP to the firewall for shielding.
-
+You can download the source code to compile or just download Release.zip directly to decompress and use
 Configure the parameters in AutoBlock.config:
 
 ````
